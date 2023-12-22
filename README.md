@@ -1,9 +1,9 @@
 <div style="background-color: #ffA500; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffA500&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff6e&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffA500&size=35&center=true&vCenter=true&width=1000&lines=APRESENTO+MEU+BACKEND+PARA+INTEGRAÇÃO++DE+LOGIN;FACILITANDO+O+DESENVOLVIMENTO+DE+SISTEMAS.😊)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b34d&size=35&center=true&vCenter=true&width=1000&lines=APRESENTO+MEU+BACKEND+PARA+INTEGRAÇÃO++DE+LOGIN;FACILITANDO+O+DESENVOLVIMENTO+DE+SISTEMAS.😊)](https://git.io/typing-svg)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffA500&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff6e&height=120&section=footer"/>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mysql&perline=10)](https://skillicons.dev)
@@ -18,6 +18,11 @@ Bem-vindo ao backend do meu sistema de login! Este projeto foi desenvolvido para
 - **API RESTful:** Utiliza Express.js para fornecer uma API RESTful para interação com o frontend.
 - **Segurança:** Implementa práticas seguras para garantir a proteção dos dados dos usuários.
 - **Configuração Fácil:** Configure o sistema facilmente através do arquivo `.env`.
+---
+<div align="center">
+  <p><strong>Observação:</strong> A imagem sofreu redução de qualidade devido à conversão de vídeo para GIF. 😉</p>
+  <img src="SistemLogin.gif" alt="Frontend GIF">
+</div>
 
 ## Configuração do Banco de Dados
 

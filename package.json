@@ -1,0 +1,24 @@
+{
+  "name": "robootjobs",
+  "version": "1.0.0",
+  "description": "<div style=\"background-color: #00bfbf; padding: 20px; border-radius: 10px; margin-bottom: 20px;\">\r   <img width=\"100%\" src=\"https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.5"
+  }
+}
